@@ -16,7 +16,7 @@ Because we are unfamiliar with developing graphical user interfaces, we have not
 
 ## User Instructions
 
-After installation, ****put user instructions here.
+After installation, put user instructions here.
 
 ## Videos
 
@@ -24,5 +24,8 @@ It might be nice to have a couple of brief videos of us installing the applicati
 
 ## Team Members
 John Carrabino
+
 Cheryl Freeman
+
 Aaron Peressini
+
